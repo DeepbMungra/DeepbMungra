@@ -1,4 +1,4 @@
- > 👋 Hi, I’m @
+ > 👋 Hi, I’m @deeepbmungra
  
  > 👀 I’m passionate about Frontend Development.
 > 
